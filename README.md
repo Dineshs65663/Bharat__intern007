@@ -1,4 +1,4 @@
-# Bharat__intern007
+
 # BharatIntern_PROJECT
 Task-1:House Price Prediction using Linear Regression model.<br />
 Task-2:Wine Quality Prediction using Linear Regression model.<br />
